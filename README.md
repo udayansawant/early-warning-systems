@@ -6,4 +6,4 @@
 
 - [X] Footer
 - [X] Social Media Icons
-- [ ] Work History
+- [ ] <a href="index.html">Work History</a>
